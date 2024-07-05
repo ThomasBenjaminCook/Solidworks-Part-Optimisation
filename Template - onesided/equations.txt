@@ -1,0 +1,6 @@
+﻿"FinHeight"= 11mm
+"BaseThickness"= 1mm
+"FinNumber"= 8
+"FinGapRatio"= 1.5
+"BaseLength"= 12mm
+"BaseLengthPerpendicularFin"= 12mm

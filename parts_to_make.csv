@@ -1,0 +1,7 @@
+PartType,FinHeight,BaseThickness,FinNumber,FinGapRatio,BaseLength,BaseLengthPerpendicularFin
+onesided,10,1,10,1.5,20,20
+onesided,10,1,11,1.5,20,20
+onesided,10,1,12,1.5,20,20
+twosided,10,1,10,1.5,20,20
+twosided,10,1,11,1.5,20,20
+twosided,10,1,12,1.5,20,20
